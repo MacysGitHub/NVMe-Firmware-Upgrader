@@ -1,0 +1,5 @@
+﻿  Setup.cpp
+C:\Users\James\source\repos\nvme firmware upgrader\nvme firmware upgrader\Setup.cpp(158,31): warning C4101: 'SDH': unreferenced local variable
+C:\Users\James\source\repos\nvme firmware upgrader\nvme firmware upgrader\Setup.cpp(157,29): warning C4101: 'SPQS': unreferenced local variable
+C:\Users\James\source\repos\nvme firmware upgrader\nvme firmware upgrader\Setup.cpp(142,11): warning C4101: 'drivearray': unreferenced local variable
+  nvme firmware upgrader.vcxproj -> C:\Users\James\source\repos\nvme firmware upgrader\Debug\nvme firmware upgrader.exe
